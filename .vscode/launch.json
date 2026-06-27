@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/nirmal/oop",
-      "program": "/Users/nirmal/oop/build/Debug/outDebug"
+      "cwd": "/Users/nirmal/oop/function",
+      "program": "/Users/nirmal/oop/function/build/Debug/outDebug"
     }
   ]
 }
